@@ -33,9 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
-
----
+That life is unfair. One of the hardest things for me to accept about life is how unfair it can be. Some people are born healthy and face relatively few obstacles, while others are born with conditions that cause pain, limitations, or suffering for much of their lives. It often makes me wonder why such inequalities exist in the first place.
+I also question why our world contains things that can so easily harm us, such as unhealthy foods or substances that contribute to disease. It seems counterintuitive that things capable of damaging our health are so deeply embedded in everyday life.
+Above all, I find it troubling that babies and young children can experience suffering before they are even capable of understanding what is happening to them. They did not choose their circumstances, yet they can bear the consequences of illness, disability, poverty, or other hardships. To me, this is one of the strongest examples of life's unfairness and one of the most difficult realities to make sense of.
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+The quickest path to success comes first through connections, and second through knowledge.
 
 ### Evidence from my life
 
-Add your answer here...
+In my life, most of the opportunities I’ve received both in my career and in other areas—have come through the people I’ve known. That’s why I believe it’s crucial to invest in the gatherings you attend, ensuring that the connections you make there can guide you toward the right path.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+To be really good at something, you need to go at it continually.
 
 ### Evidence from my life
 
-Add your answer here...
+Excellence demands repetition. As Malcolm Gladwell notes in Outliers, mastery comes not from talent alone but from thousands of hours of consistent practice.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Success is never final.
 
 ### Evidence from my life
 
-Add your answer here...
+Success can be temporary. If you stop learning or improving after succeeding, you may lose your advantage. This was my situation at one point, and I lost out on a promotion.
 
 ---
 
@@ -135,13 +135,28 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+The journey so far…
+
+If there is one guiding principle every professional should embrace today, it is the need to remain relevant. And the only way to achieve that is through continuous learning and improvement - what many now call 'skilling up.'
+
+The journey has not been easy but over the years, I have been able to establish myself as a Cloud Engineering professional with a strong track record of delivering innovative, scalable, and business-focused technology solutions. My career was defined by a passion for cloud technologies, digital transformation, and operational excellence, supported by hands-on expertise in IT operations, which includes but is not limited to CI/CD pipeline implementation, API integrations, cloud resource optimization, project management, IT governance and security, system design, and enterprise solution architecture.
+
+From starting out as a Junior IT Officer to rising to the role of Chief Technology Officer (CTO) at a major insurance company, my career has been defined by growth and impact. This journey has allowed me to understand the role of information technology in a world that is ever changing.
+
+In these years of experience, I have successfully guided cross-functional teams through complex IT modernization projects, enterprise system integrations, cloud adoption programs, and key digitization initiatives that enhanced efficiency, reduced operational bottlenecks, and delivered measurable business value.
+
+Throughout my professional journey, I designed and implemented solutions that streamlined business processes, automated critical workflows, improved system reliability, and strengthened organizational agility. My expertise in cloud resource management enabled significant cost optimization efforts, ensuring that technology investments remained aligned with business objectives while delivering maximum value.
+
+Beyond technical execution, I demonstrated strong leadership and stakeholder management capabilities by coordinating diverse teams, managing project lifecycles, and driving successful outcomes across multiple technology portfolios. My commitment to continuous learning led to several industry-recognized certifications in cloud computing, project management, and related technology domains, reinforcing my technical and strategic competencies.
+
+I also built a strong professional presence through a collection of completed projects, documented portfolios, GitHub repositories, technical blogs, and active community contributions. These accomplishments reflected my dedication to knowledge sharing, innovation, and the advancement of technology practices within the broader professional community.
+Collectively, these achievements has showcased a well-rounded technology professional who has consistently combined technical expertise, leadership excellence, and business insight to deliver impactful solutions, drive organizational growth, and contribute meaningfully to the evolution of modern enterprise technology - and this is just the BEGINNING.
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`https://medium.com/@damwuyi/the-journey-so-far-ef987958bad2?sharedUserId=damwuyi`
 
 ---
 
@@ -173,7 +188,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+No
 
 ---
 
@@ -199,16 +214,17 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The New Psychology of Success - Carol S. Dweck
+2. How To Win Friends and Influence People - Dale Carnegie
+3. Atomic Habits - James Clear
+4. The Power of Full Engagement - Jim Loehr & Tony Schwartz 
+5. Rich Dad Poor Dad - Robert Kiyosaki 
+6. Outliers - Malcolm Gladwell 
+7. Leaders Eat Last - Simon Sinek 
+8. The Alchemist - Paulo Coelho 
+9. The 5AM Club - Robin Sharma
+10. The 7 Habits of Highly Effective People - Stephen R. Covey 
+
 
 ---
 
@@ -237,16 +253,11 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning Metrics - Ensure I spend at least 1 hour on weekdays, two hours on weekends learning
+* Output Metrics - Complete projects completed, GitHub contributions
+* Health Metrics - Improve sleep hours, increase water intake, and engage in general exercise and workouts.
+* Time Metrics - Managing time and avoiding distractions (social media)
+* Money Metrics - Measure finances by improving savings and investment contributions.
 
 ---
 
@@ -268,11 +279,17 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes**
 
 Answer:
 
-Add your answer here...
+* Family
+* Bills
+* Money
+* Career
+* Growth
+* Relationships
+* Relevance
 
 ---
 
@@ -290,7 +307,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Mon–Thu: 60 min refresher
+* Sat: DMI session
+* Sun: Weekly review
 
 ---
 
@@ -298,11 +317,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+* Mondays - Fridays - 8:00PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+* 5
 
 ---
 
@@ -316,23 +335,23 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
+* Phone on DND
+* No Social media.
 ---
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+The biggest insight for me is the testimony from students of previous cohorts, their experiences so far have been nothing short of encouraging.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My response time and speed to properly understanding assignments.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Follow up thoroughly with the Discord channel as it holds enough insight from co-mentors and fellow students.
 
 ### LinkedIn Post
 
@@ -344,8 +363,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_join-the-dmi-devops-micro-internship-share-7478457195676889088-D__Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw**  
+- Blog / Medium : **https://medium.com/@damwuyi/the-journey-so-far-ef987958bad2?sharedUserId=damwuyi**  
 
 ---
 

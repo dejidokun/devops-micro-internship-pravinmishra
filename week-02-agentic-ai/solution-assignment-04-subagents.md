@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — Agents folder structure in VS Code
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-17.jpg)
 
 ---
 
@@ -34,19 +34,24 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+1. Task simplicity — The job is read-only analysis (Read, Grep, Glob only): parse Terraform files, enumerate cost-bearing resources, and suggest optimizations. This doesn't require adversarial reasoning or complex synthesis.
+2. Cost of the agent itself — There's a meta-irony: using an expensive model to optimize costs. Haiku is ~4x cheaper than Sonnet while still handling structured analytical work well.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+1. Auditing ≠ remediation — The auditor identifies and reports security issues with recommended fixes, but a human must review and approve the changes before they're applied.
+2. Prevents accidental vulnerabilities — Security fixes are sensitive; auto-applying them without human review could introduce new issues or miss context-specific constraints.
+3. Audit trail — Keeping the auditor read-only maintains a clear chain: auditor → report → human decision → separate fix agent (like tf-writer) applies the change.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+1. Production-critical task — Terraform code generates real AWS infrastructure. This warrants the strongest reasoning available, not a fixed tier.
+2. Model flexibility — Users may have different Claude models available depending on their tier (Opus, Sonnet, Haiku). inherit lets the agent use whatever the session provides without being locked to one model.
+3. Future-proof — When stronger models ship, tf-writer automatically benefits without needing to update the agent config.
 
 ---
 
@@ -54,13 +59,13 @@ Add your answer here...
 
 #### Screenshot 2 — security-auditor.md frontmatter
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-18.jpg)
 
 ---
 
 #### Screenshot 3 — cost-optimizer.md frontmatter
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-19.jpg)
 
 ---
 
@@ -74,14 +79,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — Security auditor delegation triggered
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-20.jpg)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
-
+![book1](screenshots/Screenshot-21.jpg)
 ---
 
 # Task 4 — Run the Cost Optimizer
@@ -94,7 +98,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — Cost optimization report output
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-22.jpg)
 
 ---
 
@@ -111,7 +115,7 @@ Add your screenshot here.
 
 Paste your Google Doc URL here:
 
-`__________________________`
+`https://docs.google.com/document/d/1nh9WxFa93K6qVAMQJD9XRyhSPYOnX3qVHw8sU7n6fG4/edit?usp=sharing
 
 ---
 

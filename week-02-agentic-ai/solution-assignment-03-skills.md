@@ -92,6 +92,7 @@ Paste your forked repository URL here:
 
 `https://github.com/dejidokun/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
+LinkedIn Post [Click Here](https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_dmibypravinmishra-agenticai-claudecode-share-7481284993307181056-4k0d/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw)
 ---
 
 # Completion Checklist

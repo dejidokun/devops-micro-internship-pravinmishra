@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@damwuyi/deji-adedokun-my-thoughts-on-week-2-818477665ed3?sharedUserId=damwuyi`
 
 ---
 
@@ -63,6 +63,8 @@ Blog Link:
 ## Goal
 
 Share your Week 2 learning publicly on LinkedIn.
+
+https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_dmibypravinmishra-agenticai-claudecode-activity-7481284995333140481-44KN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw
 
 ---
 
@@ -92,7 +94,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-42.jpg)
 
 ---
 
@@ -100,7 +102,24 @@ Add your screenshot here.
 
 LinkedIn Post Content (copy-paste here):
 
-```
+Just built my first agentic DevOps skill. One command generated an entire Terraform infrastructure. No manual code written.
+
+In WEEK 2, we took a deep dive into Claude Code in its role in the DevOp process.
+
+Interesting Facts and Key Benefits
+✅ From Idea to Infrastructure in Minutes
+✅ Agentic Behavior Instead of Code Completion
+✅ Rapid Learning
+✅ Built-in Best Practices
+
+The Bigger Picture
+The real value is not that Claude Code can write Terraform; it's that it demonstrates the evolution toward Agentic DevOps, where AI agents can understand an outcome, plan the required actions, generate the necessary artifacts, and potentially orchestrate deployment workflows with minimal human intervention.
+
+The only issue faced was installing Terraform; I experienced issues using the installation package directly from the site, but this was quickly sorted by installing directly on command prompt by running "winget install Hashicorp.Terraform"
+
+Note: It is necessary to learn how tools like Terraform work at a basic level before transitioning into utilizing agent tools like Claude.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( [https://lnkd.in/ds39iY6n) ).
 Paste your LinkedIn post content here
 ```
 
@@ -108,7 +127,7 @@ Paste your LinkedIn post content here
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_dmibypravinmishra-agenticai-claudecode-activity-7481284995333140481-44KN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw`
 
 ---
 

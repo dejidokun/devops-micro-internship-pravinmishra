@@ -115,7 +115,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Paste your Google Doc URL here:
 
-`__________________________`
+`https://docs.google.com/document/d/1nh9WxFa93K6qVAMQJD9XRyhSPYOnX3qVHw8sU7n6fG4/edit?usp=sharing`
 
 ---
 
@@ -123,7 +123,7 @@ Paste your Google Doc URL here:
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/dejidokun/devops-micro-internship-pravinmishra.git`
 
 ---
 

@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-10.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-13.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-14.jpg)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-15.jpg)
 
 ---
 
@@ -48,19 +48,19 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+To prove Nginx is listening on 0.0.0.0:80, the listening sockets will need to be checked via sudo ss -tlnp | grep ':80'. This is a command line that shows if a process is listening on port 80. ss - displays network sockets, -tlnp (t - Show TCP sockets only. l - Show listening sockets only. n - Show numeric addresses and ports (don't resolve names). p - Show the process using the socket.) all to filter through the connection swith port 80.
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+Running sudo ss -tlnp | grep ':22' to check processes that are listening on port 22.
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+No unexpected open ports. As expected Nginx was listening on port 80 and the Secure Shell Daemon (sshd) on port 22.
 
 ---
 
@@ -74,19 +74,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-16.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-17.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-18.jpg)
 
 ---
 
@@ -96,13 +96,13 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
+If Nginx fails to restart it would simply mean visitors would be refused connectiont o the server or timeout or site fully down.
 
 ---
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+The server failing to restart might be due to maybe config has a syntax error, the port already being used  or a required file is missing. It is advisable to configure rollback or full app restart.
 
 ---
 
@@ -116,19 +116,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-19.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-20.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-21.jpg)
 
 ---
 
@@ -141,19 +141,19 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+It probably means there are actually no errors to report or errors redirecting to some other location.
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+In my case, it seems there are errors but it is redirected to a different location.
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes, there were curl requests and it proves that the server got a valid HTTP response.
 
 ---
 
@@ -167,25 +167,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-22.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-23.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-24.jpg)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-25.jpg)
 
 ---
 

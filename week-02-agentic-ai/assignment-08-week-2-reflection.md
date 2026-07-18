@@ -54,9 +54,8 @@ Add your screenshot here.
 
 Blog Link:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-08-Week-2-reflection.md
 `https://medium.com/@damwuyi/deji-adedokun-my-thoughts-on-week-2-818477665ed3?sharedUserId=damwuyi`
-=======
+
 `Add your URL here`
 >>>>>>> ee02420ed4a15fe541d0ba545b9f5af9ab081a6b:week-02-agentic-ai/assignment-08-week-2-reflection.md
 

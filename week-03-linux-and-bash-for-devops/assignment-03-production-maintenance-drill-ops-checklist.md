@@ -195,13 +195,13 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+Currently looks like the disk cause of the content of locations like the root and lib.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
+Several things will most likely occur. The database becomes unustable, application stops writing data, data retrieval becomes delayed, services may crash, user requests will fail.
 
 ---
 
@@ -215,19 +215,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-26.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-27.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-28.jpg)
 
 ---
 
@@ -238,7 +238,7 @@ Answer the following in your own words:
 **1. How do you confirm that the correct version of the application is deployed?**
 
 Write your answer here.
-
+By checking the version of the installation (e.g. nginx -v)
 ---
 
 # Task 6 — Nginx Configuration Failure Simulation
@@ -247,23 +247,22 @@ Write your answer here.
 
 Simulate a real-world Nginx misconfiguration and recover the service safely.
 
-### Evidence
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-29.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-30.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-31.jpg)
 
 ---
 
@@ -273,19 +272,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+The content of location /etc/nginx/sites-available/default was altered and not accurate.
 
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+Ensured the configuration on /etc/nginx/sites-available/default was accurate, edited via nano and saved as expected.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+Always validate and test the configuration via sudo nginx -t
 
 ---
 
@@ -299,13 +298,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-32.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-31.jpg)
 
 ---
 
@@ -315,19 +314,19 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+In this scenario the listening port for the server was wrong and not set to 80. 
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+This was corrected by editing the configuration file and setting listening port to 80, nginx restarted (via systemctl restart nginx) and the public ip was reachable.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+Always validate accuracy of configuration files.
 
 ---
 
@@ -343,31 +342,31 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+SSH key-based authentication is more secure than sharing passwords because it uses public-key cryptography, where a private key remains securely on the user's device and is never transmitted over the network, making it far more resistant to theft, guessing, and brute-force attacks.
 
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Only the required ports should be open on a production server because every open port represents a potential entry point for attackers. By limiting access to only the services that are necessary, such as port 80 for HTTP, port 443 for HTTPS, or port 22 for SSH when needed, organizations reduce their attack surface and lower the risk of unauthorized access, vulnerability exploitation, malware infections, and denial-of-service attacks.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+It is important for Nginx to be enabled on boot because it ensures that the web server starts automatically whenever the server is restarted, whether due to maintenance, updates, power outages, or unexpected crashes.
 
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+Sharing secrets, keys, or credentials publicly is extremely risky because it can give unauthorized individuals direct access to servers, applications, databases, cloud environments, and sensitive data.
 
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Cloud resources should be stopped or terminated when they are no longer needed because most cloud services operate on a pay-as-you-go model, meaning organizations continue to incur charges for resources that remain running even if they are not being used.
 
 ---
 
@@ -379,13 +378,13 @@ Write your answer here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_the-dmi-sessions-have-highlighted-the-importance-share-7484153094998708224-eAt_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-33.jpg)
 
 ---
 

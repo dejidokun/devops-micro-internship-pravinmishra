@@ -156,11 +156,9 @@ Collectively, these achievements has showcased a well-rounded technology profess
 
 Paste your link here:
 
-<<<<<<< HEAD:week-01-success-mindset/README.md
 `https://medium.com/@damwuyi/the-journey-so-far-ef987958bad2?sharedUserId=damwuyi`
 =======
 `Add your URL here`
->>>>>>> ee02420ed4a15fe541d0ba545b9f5af9ab081a6b:week-01-success-mindset/assignment-01-mindset-os.md
 
 ---
 

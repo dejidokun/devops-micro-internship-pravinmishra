@@ -76,8 +76,8 @@ Week 01 → Success Mindset
 Week 02 → Agentic AI with Claude Code
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+Week 03 → Linux & Bash for DevOps
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -130,11 +130,10 @@ Week 02 → Agentic AI with Claude Code
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-<<<<<<< HEAD
 | 01 | Success Mindset | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_join-the-dmi-devops-micro-internship-share-7478457195676889088-D__Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw | https://medium.com/@damwuyi/the-journey-so-far-ef987958bad2?sharedUserId=damwuyi |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_dmibypravinmishra-agenticai-claudecode-activity-7481284995333140481-44KN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw | https://medium.com/@damwuyi/deji-adedokun-my-thoughts-on-week-2-818477665ed3?sharedUserId=damwuyi |
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux for DevOps | ✅ Completed  | ✅ Completed  | https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_learning-from-week-3-of-the-dmi-sessions-share-7483545477649530880-IkYe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw | — |
+| 04 | Bash Scripting | ✅ Completed  | ✅ Completed  | https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_finally-tried-my-hand-at-bash-automation-ugcPost-7484224472451985408-BdX8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw |  |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
@@ -146,20 +145,6 @@ Week 02 → Agentic AI with Claude Code
 | 13 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 14 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
 =======
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
->>>>>>> ee02420ed4a15fe541d0ba545b9f5af9ab081a6b
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved

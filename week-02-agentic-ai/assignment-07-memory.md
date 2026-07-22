@@ -91,11 +91,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-07-memory.md
 `https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_dmibypravinmishra-agenticai-claudecode-ugcPost-7481804717384380416-2LhT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw`
-=======
-`Add your URL here`
->>>>>>> ee02420ed4a15fe541d0ba545b9f5af9ab081a6b:week-02-agentic-ai/assignment-07-memory.md
 
 ---
 
@@ -103,7 +99,7 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/dejidokun/devops-micro-internship-pravinmishra.git`
 
 ---
 

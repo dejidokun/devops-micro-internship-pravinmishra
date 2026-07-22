@@ -94,11 +94,7 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 Paste your forked repository URL here:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-05-mcp.md
 `https://github.com/dejidokun/Ultimate-Agentic-DevOps-with-Claude-Code.git`
-=======
-`Add your URL here`
->>>>>>> ee02420ed4a15fe541d0ba545b9f5af9ab081a6b:week-02-agentic-ai/assignment-05-mcp.md
 
 ---
 

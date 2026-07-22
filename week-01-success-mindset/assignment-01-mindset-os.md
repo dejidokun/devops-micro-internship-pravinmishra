@@ -157,8 +157,6 @@ Collectively, these achievements has showcased a well-rounded technology profess
 Paste your link here:
 
 `https://medium.com/@damwuyi/the-journey-so-far-ef987958bad2?sharedUserId=damwuyi`
-=======
-`Add your URL here`
 
 ---
 

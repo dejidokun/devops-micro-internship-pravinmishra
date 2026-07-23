@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![book1](screenshots/Screenshot-42.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-![book1](screenshots/Screenshot-42.jpg)
+![book1](screenshots/Screenshot-43.jpg)
 
 ---
 
@@ -120,10 +120,8 @@ The only issue faced was installing Terraform; I experienced issues using the in
 Note: It is necessary to learn how tools like Terraform work at a basic level before transitioning into utilizing agent tools like Claude.
 
 P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( [https://lnkd.in/ds39iY6n) ).
-Paste your LinkedIn post content here
-```
 
----
+```
 
 ### LinkedIn Post Link:
 

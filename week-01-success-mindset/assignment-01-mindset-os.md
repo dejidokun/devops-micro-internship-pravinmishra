@@ -162,6 +162,10 @@ Paste your link here:
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
+## Answer
+
+No
+
 ### Important
 
 You don't need to write the full story.
@@ -363,8 +367,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_join-the-dmi-devops-micro-internship-share-7478457195676889088-D__Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw**  
-- Blog / Medium : **https://medium.com/@damwuyi/the-journey-so-far-ef987958bad2?sharedUserId=damwuyi**  
+- LinkedIn Post URL: 'https://www.linkedin.com/posts/deji-adedokun-82a7aa24b_join-the-dmi-devops-micro-internship-share-7478457195676889088-D__Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3gNiIBphPW8KBk8LtPb0YfYY27Y457EIw'
+- Blog / Medium : 'https://medium.com/@damwuyi/the-journey-so-far-ef987958bad2?sharedUserId=damwuyi' 
 
 ---
 
